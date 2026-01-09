@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am full stack develper<br>work in igssolutions.co.za as senior developer
+i am full stack developer<br>Works in igssolutions.co.za as senior developer
 
 
 # 💻 Tech Stack:
